@@ -15,6 +15,7 @@ void CArticolalim::print()
 {
 	cout << "A,";
 	cout << this->name << "," << this->pret << "," << this->data_exp << endl;
+	//this was modified by C
 }
 bool operator>(CArticolalim &Alim,string data)
 {
