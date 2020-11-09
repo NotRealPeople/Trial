@@ -9,6 +9,8 @@ void CArticolelectronic::print()
 {
 	cout << "E,";
 	cout << this->name << "," << this->pret << "," << this->garantie<< endl;
+	//this was modified in CBranch
+	//this was modified later in CBranch
 }
 CArticolelectronic::~CArticolelectronic()
 {
