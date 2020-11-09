@@ -18,4 +18,5 @@ void main()
 	m3.printExpirable("20080630");
 	_getch();
 	//NOTA 8//AMR TEMPLATE
+	//modified in main
 }
